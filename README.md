@@ -1,2 +1,2 @@
-# party-anomali
+party-anomali :
 https://hangker.siii.store/
